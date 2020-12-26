@@ -1,8 +1,4 @@
-Edit in JSFiddle
-JavaScript
-HTML
-CSS
-Result
+
 /*
 Snow Effect source: https://codepen.io/longzero/pen/Kwdbyj
 */
